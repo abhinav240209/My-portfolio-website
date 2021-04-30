@@ -1,0 +1,34 @@
+.line {
+   background-color:aquamarine;
+    width:25px;
+    height:5px;
+}
+#apps {
+  width:100%;
+    height:800px;
+    background:linear-gradient(#66b7e3 0%, #2211d9 70%);
+}
+
+#games {
+  width:100%;
+    height:800px;
+    background:linear-gradient(#e8eb44 0%, #c41906 70%);
+
+}
+
+#chatbots {
+  width:100%;
+    height:800px;
+    background:linear-gradient(#3adebd 0%,  #0aa30c 70%);
+}
+img {transition:transform .2s} 
+img:hover {transform:scale(0.9);}
+
+h1 {
+    font-size:20px;
+    font-family:cursive;
+    text-align:center;
+}
+body {
+    text-align:center;
+}
